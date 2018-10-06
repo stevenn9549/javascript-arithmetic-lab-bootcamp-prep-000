@@ -18,10 +18,10 @@ function dec(n){
   return n -=1;
 }
 function makeInt(n){
-  return parseInt('b', 10);
+  return parseInt(n, 10);
 }
 function makeInt(n){
-  return parseInt();
+  return parseInt('a');
 }
 function makeInt(n){
   return parseInt('ifvnein');
