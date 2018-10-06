@@ -17,7 +17,7 @@ function inc(n){
 function dec(n){
   return n -=1;
 }
-function makeInt(a.toString()){
+function makeInt(a){
   return parseInt(a);
 }
 
