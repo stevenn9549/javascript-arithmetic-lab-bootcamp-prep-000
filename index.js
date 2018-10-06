@@ -22,7 +22,7 @@ function makeInt(n){
 }
 
 function makeInt(n){
-  return parseInt();
+  return parseInt(a.tostring());
 }
 function makeInt(n){
   return parseInt('ifvnein');
