@@ -18,5 +18,13 @@ function dec(n){
   return n -=1;
 }
 function makeInt(n){
-  return parseInt('a'.toString(), 10);
+  return parseInt('a');
+}function makeInt(n){
+  return parseInt('ifvnein');
+}
+function preserveDecimal(n){
+  return parseFloat();
+}
+function preserveDecimal(n){
+  return parseFloat('ervev');
 }
