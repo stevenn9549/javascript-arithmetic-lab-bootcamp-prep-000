@@ -18,9 +18,8 @@ function dec(n){
   return n -=1;
 }
 function makeInt(n){
-  return parseInt(n, 10);
+  return parseInt(a.toString);
 }
-console.log(makeInt('0x2823'));
 
 function makeInt(n){
   return parseInt('a');
