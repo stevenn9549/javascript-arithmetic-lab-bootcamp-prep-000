@@ -20,7 +20,7 @@ function dec(n){
 function makeInt(n){
   return parseInt(a, 10);
 }
-console.log makeInt()
+console.log(makeInt(''))
 function makeInt(n){
   return parseInt('a');
 }
