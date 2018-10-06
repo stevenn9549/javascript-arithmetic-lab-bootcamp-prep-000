@@ -18,6 +18,7 @@ function dec(n){
   return n -=1;
 }
 function makeInt(n){
+  var a=231
   return parseInt('a', 10);
 }
 function makeInt(n){
