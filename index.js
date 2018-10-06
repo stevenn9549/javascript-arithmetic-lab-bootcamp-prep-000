@@ -19,8 +19,11 @@ function dec(n){
 }
 function makeInt(n){
   return parseInt('a',10);
-
-}function makeInt(n){
+}
+function makeInt(n){
+  return parseInt();
+}
+function makeInt(n){
   return parseInt('ifvnein');
 }
 
