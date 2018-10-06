@@ -24,8 +24,8 @@ function makeInt(n){
   return parseInt('ifvnein');
 }
 
-function preserveDecimal(n){
-  return parseFloat('2.222');
+function preserveDecimal(n, base){
+  return parseFloat('n' 10);
 }
 
 function preserveDecimal(n){
