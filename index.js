@@ -18,13 +18,16 @@ function dec(n){
   return n -=1;
 }
 function makeInt(n){
-  return parseInt('a');
+  return parseInt();
+
 }function makeInt(n){
   return parseInt('ifvnein');
 }
+
 function preserveDecimal(n){
   return parseFloat();
 }
+
 function preserveDecimal(n){
   return parseFloat('ervev');
 }
